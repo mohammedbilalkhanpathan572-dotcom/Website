@@ -1,0 +1,6 @@
+{
+  "name": "Bright Future International School - School Management System",
+  "description": "Modern, premium School Management Website and Admin Dashboard for Al _ Ahmed Sec School (BFIS) with comprehensive student, teacher, academic, fee, and administrative portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
